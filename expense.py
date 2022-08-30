@@ -50,3 +50,5 @@ lista = []
 filler(lista)
 total()
 partials(lista)
+## to do uneven quutas just input more characters for the same buyer
+## e.g llla = 3/4 to l, and 1/4 to a
